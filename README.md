@@ -4,8 +4,8 @@
   <a href="https://instagram.com/marcelotonassi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:marcelo.tonassi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/marcelo-alves-tonassi-59923a25" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
 
 Hoje, trabalho com coordenador perdagógico em uma escola de inglês e me atualizando para voltar ao mercado de TI.
 
