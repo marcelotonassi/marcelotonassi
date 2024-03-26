@@ -7,7 +7,7 @@
 </div>
 
 
-Hoje, trabalho com coordenador perdagógico em uma escola de inglês e me atualizando para voltar ao mercado de TI.
+Hoje, trabalho como coordenador perdagógico em uma escola de inglês e me atualizando para voltar ao mercado de TI.
 
 Minha formação: 
 
