@@ -20,7 +20,7 @@ Minha formação:
 
 💻 Pósgraduação em Banco de Dados SQL 
 
-📚 POrtuguês/Inglês
+📚 Português/Inglês
 
 📚 Português/Espanhol 
 
