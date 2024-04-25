@@ -20,7 +20,7 @@ Minha formação:
 
 💻 Pósgraduação em Banco de Dados SQL 
 
-📚 Inglês/Português
+📚 POrtuguês/Inglês
 
 📚 Português/Espanhol 
 
@@ -30,4 +30,4 @@ Minha formação:
 <div style="display: inline_block"><br>
   <img align="center" alt="marcelotonassi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<img align="center" padding="0" alt="Imagem do footer da pagina contendo um trilho de trem ao por do sol" src="https://media.licdn.com/dms/image/C5616AQEy_2s0SSuEUA/profile-displaybackgroundimage-shrink_350_1400/0/1658235864274?e=1714608000&v=beta&t=jYrHUWyaoJJ--afHNEZQvgMZ2w9tMoNetRLLjFJ_Oho">
+<img align="center" padding="0" alt="Imagem do footer da pagina contendo um trilho de trem ao por do sol" src="[https://img.freepik.com/fotos-gratis/retrato-de-mago-durante-a-epoca-medieval_23-2150932186.jpg?w=900&t=st=1714004574~exp=1714005174~hmac=b1d5912114614a7b1cd19b8c3c3c7ffa47c475325f22f7c6d444d5f8433fd681)]">
