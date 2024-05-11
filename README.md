@@ -1,4 +1,3 @@
-<img align="center" padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://www.google.com/imgres?q=imagens%20fiordes%20noruegueses&imgurl=https%3A%2F%2Fviagenseoutrashistorias.com.br%2Fwp-content%2Fuploads%2F2023%2F07%2Froteiro-fiordes-noruega-66.jpg&imgrefurl=https%3A%2F%2Fviagenseoutrashistorias.com.br%2Froteiro-pelos-fiordes-da-noruega%2F&docid=tqbNQmz8Rh5QBM&tbnid=izXRXod9HdrBzM&vet=12ahUKEwjVwsKFv4aGAxX8rJUCHTYTCS8QM3oECD8QAA..i&w=1800&h=1013&hcb=2&ved=2ahUKEwjVwsKFv4aGAxX8rJUCHTYTCS8QM3oECD8QAA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.civitatis.com%2Fbr%2Ffiordes-noruegueses%2F&psig=AOvVaw0H2g6Pg4-33qvWF1rCL-YO&ust=1715547622736000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICL46i_hoYDFQAAAAAdAAAAABAE)">
 <br >
  
 </h1>
